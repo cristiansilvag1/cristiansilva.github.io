@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Proyecto 1 - Predicción de Demanda</title>
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>📊 Predicción de Demanda Semanal</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Descripción</h2>
+      <p>Este proyecto consiste en un modelo de regresión lineal para predecir la demanda de productos en una tienda local.</p>
+    </section>
+
+    <section>
+      <h2>Herramientas</h2>
+      <ul>
+        <li>Python (pandas, scikit-learn)</li>
+        <li>Visualización con Matplotlib</li>
+        <li>Dataset: Ventas semanales (fuente simulada)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Resultados</h2>
+      <p>El modelo logró reducir el error promedio en un 15%, permitiendo mejores decisiones de inventario.</p>
+      <img src="../assets/img/ejemplo.png" alt="Ejemplo gráfico" width="400">
+    </section>
+
+    <p><a href="../index.html">⬅ Volver al inicio</a></p>
+  </main>
+</body>
+</html>
 
